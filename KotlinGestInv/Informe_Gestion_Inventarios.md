@@ -88,5 +88,4 @@ Las capturas de pantalla de la ejecución del programa se presentan a continuaci
 
 ---
 
-*(Aquí se insertarán las capturas de pantalla por parte del usuario).*
 
